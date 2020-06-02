@@ -2,6 +2,7 @@
   "name": "react-piano",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://msynko.github.io/react-piano/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",

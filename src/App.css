@@ -8,12 +8,12 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  background: #444;
+  background: grey;
 }
 
 .piano-container {
   display: inline-flex;
-  border-top: 10px solid blue;
+  border-top: 10px solid black;
 }
 
 .piano-natural-key {
@@ -22,7 +22,7 @@
   cursor: pointer;
   background: #fafafa;
   margin: 0 2px;
-  color: #444;
+  color: black;
   padding: 10px;
   border-radius: 0 0 3px 3px;
 }
@@ -36,8 +36,10 @@
 }
 
 .piano-natural-key-playing {
-  border-bottom: 10px solid blue;
-  color: blue;
+  border-bottom: 10px solid grey;
+  color: black;
+  border: none;
+
 }
 
 .piano-accidental-key-wrapper {
