@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-piano/static/css/main.715a1d1c.chunk.css",
+    "main.css": "/react-piano/static/css/main.899fc7a3.chunk.css",
     "main.js": "/react-piano/static/js/main.de0936aa.chunk.js",
     "main.js.map": "/react-piano/static/js/main.de0936aa.chunk.js.map",
     "runtime-main.js": "/react-piano/static/js/runtime-main.ef23768d.js",
@@ -8,15 +8,15 @@
     "static/js/2.085fedeb.chunk.js": "/react-piano/static/js/2.085fedeb.chunk.js",
     "static/js/2.085fedeb.chunk.js.map": "/react-piano/static/js/2.085fedeb.chunk.js.map",
     "index.html": "/react-piano/index.html",
-    "precache-manifest.a91f327d37c1d42e937c7a5ec8db7fb0.js": "/react-piano/precache-manifest.a91f327d37c1d42e937c7a5ec8db7fb0.js",
+    "precache-manifest.b662d19a4cd0c8b65efd1eabe12857cf.js": "/react-piano/precache-manifest.b662d19a4cd0c8b65efd1eabe12857cf.js",
     "service-worker.js": "/react-piano/service-worker.js",
-    "static/css/main.715a1d1c.chunk.css.map": "/react-piano/static/css/main.715a1d1c.chunk.css.map",
+    "static/css/main.899fc7a3.chunk.css.map": "/react-piano/static/css/main.899fc7a3.chunk.css.map",
     "static/js/2.085fedeb.chunk.js.LICENSE": "/react-piano/static/js/2.085fedeb.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.ef23768d.js",
     "static/js/2.085fedeb.chunk.js",
-    "static/css/main.715a1d1c.chunk.css",
+    "static/css/main.899fc7a3.chunk.css",
     "static/js/main.de0936aa.chunk.js"
   ]
 }
