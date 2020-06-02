@@ -8,12 +8,15 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  background: grey;
+  background-image: url(../src/img/notes.jpg);
+  background-size: cover;
+
 }
 
 .piano-container {
   display: inline-flex;
   border-top: 10px solid black;
+  margin: 0 auto;
 }
 
 .piano-natural-key {
