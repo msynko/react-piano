@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This is an interactive keyboard piano app. The online piano keyboard simulates a real piano keyboard.2
+This is an interactive keyboard piano app. The online piano keyboard simulates a real piano keyboard
 
 <div align="left">
     <img src="src/img/screen.png" width="800px"</img> 
