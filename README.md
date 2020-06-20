@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This is an interactive keyboard piano.
+This is an interactive keyboard piano app. The online piano keyboard simulates a real piano keyboard.2
 
 <div align="left">
     <img src="src/img/screen.png" width="800px"</img> 
@@ -20,7 +20,7 @@ Project is created with:
 
 
 ## Setup
-To run this project, install it locally:
+To run this project, install it locally using npm:
 
 ```
 $ cd ../react-piano
